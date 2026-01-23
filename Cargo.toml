@@ -3,6 +3,6 @@ name = "bitss"
 version = "0.1.0"
 edition = "2024"
 authors = ["Bok"]
-description = "Yolo"
+description = "DuckWack"
 
 [package.metadata.rubin]
