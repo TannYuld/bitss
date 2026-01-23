@@ -1,0 +1,8 @@
+[package]
+name = "bitss"
+version = "0.1.0"
+edition = "2024"
+authors = ["Bok"]
+description = "Yolo"
+
+[package.metadata.rubin]
